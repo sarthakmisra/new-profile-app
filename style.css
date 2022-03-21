@@ -1,0 +1,42 @@
+
+.link:hover {
+ background-color:white;
+ 
+}
+.link {
+    float:left;
+    color:antiquewhite;
+    padding-top:5px;
+    padding-bottom:5px;
+    padding-left:9px;
+    padding-right:9px;
+    font-family:fantasy;
+    font-size:20px;
+  
+}
+#about_me {
+    background-color: white;
+    width: 1000px;
+    border-radius: 30px;
+
+}
+#dp {
+    border-radius: 100%;
+    width: 100px;
+    height: 100px;
+}
+#name {
+    font-size: 50px;
+}
+p {
+    font-size: 20px;
+}
+.class {
+    width:300px;
+    height:300px;
+}
+#Trivia {
+    background-color: white;
+    width: 1000px;
+    border-radius: 30px;
+}
